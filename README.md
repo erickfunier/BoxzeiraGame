@@ -1,11 +1,11 @@
 # BoxzeiraGame
-Simples jogo 2D baseado no Sokoban
+Simple 2D Game based on classic Sokoban
 
-O jogo foi criado com Java Awt Graphics e JFrame na IDE NetBeans
-Para jogar, basta executar o Boxzeira.jar
+The game use Java Awt Graphics and JFrame on NetBeans IDE
+Run Boxzeira.jar to play.
 
-Tela Inicial</br>
+Start Screen</br>
 ![alt text](https://github.com/erickfunier/BoxzeiraGame/blob/master/images/Start%20Screen.PNG)
 
-Nível 3</br>
+Level 3</br>
 ![alt text](https://github.com/erickfunier/BoxzeiraGame/blob/master/images/Game.PNG)
